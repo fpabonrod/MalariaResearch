@@ -1,1 +1,1 @@
-# MalariaResearch
+# Malaria Research
